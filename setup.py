@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple package to help you learn to implement NN",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sridhar1029/Basic_NN",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
