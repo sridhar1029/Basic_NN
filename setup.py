@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Basic_NN",
-    version="0.0.1",
+    version="0.0.2",
     author="Sridhar Adhikarla",
     author_email="adhikarla2sridhar@yahoo.com",
     description="A simple package to help you learn to implement NN",
